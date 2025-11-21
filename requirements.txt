@@ -1,0 +1,5 @@
+requests
+tldextract
+beautifulsoup4
+art
+
