@@ -49,4 +49,4 @@ python3 simpleinspector.py https://www.microsoft.com
 
 ########### EJEMPLO DE RESULTADO ###########
 
-![Captura]([https://raw.githubusercontent.com/Bravxo/Simple-URL-Inspector/main/images/captura3.png](https://github.com/Bravxo/Simple-URL-Inspector/blob/main/images/Captura3.PNG))
+![Captura](https://github.com/Bravxo/Simple-URL-Inspector/blob/main/images/Captura3.PNG)
