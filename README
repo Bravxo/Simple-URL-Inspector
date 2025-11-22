@@ -1,3 +1,5 @@
+(images/flyer.png)
+
 # Simple URL Inspector
 
 **Simple URL Inspector** es una herramienta en Python diseñada para analizar cualquier URL que creas sospechosa y detectar posibles indicadores de phishing o malware.  
