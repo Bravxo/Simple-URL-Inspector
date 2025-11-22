@@ -42,6 +42,7 @@ cd Simple-URL-Inspector
 
 ### 2. Instalar las dependencias
 pip install -r requirements.txt
+o de tener inconvenientes utilizar pip install -r requirements.txt --break-system-packages 
 
 ### 3. Ejecutar la herramienta
 python3 simpleinspector.py https://www.microsoft.com
