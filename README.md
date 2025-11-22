@@ -49,18 +49,4 @@ python3 simpleinspector.py https://www.microsoft.com
 
 ########### EJEMPLO DE RESULTADO ###########
 
-=== Simple URL Inspector ===
-
-URL final: https://www.microsoft.com
-Dominio: microsoft.com (Subdominio: www, TLD: com)
-Redirecciones: 0 → ['https://www.microsoft.com']
-Título de la página: Microsoft – Official Home Page
-Formulario de login: False
-Campo OTP: False
-Palabras clave sospechosas: —
-Favicon hash: 3f2a....c9d
-Scripts detectados: 12 → —
-Tipo de contenido: text/html; charset=utf-8
-Descarga automática sospechosa: False
-
->>> Riesgo estimado: 0/100 <<<
+![Flyer](https://raw.githubusercontent.com/Bravxo/Simple-URL-Inspector/main/images/captura3.png)
