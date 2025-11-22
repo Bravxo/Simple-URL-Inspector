@@ -1,8 +1,4 @@
-# Simple URL Inspector
-
 ![Flyer](https://raw.githubusercontent.com/Bravxo/Simple-URL-Inspector/main/images/flyer.png)
-
-
 
 
 
